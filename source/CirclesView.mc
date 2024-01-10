@@ -50,6 +50,7 @@ class CirclesView extends WatchUi.WatchFace {
 
   // Update the view
   function onUpdate(dc as Dc) as Void {
+    View.onUpdate(dc);
     if (isSleepMode) {
       var direction = Math.rand() % 360;
       var angle = Math.toRadians(direction);
