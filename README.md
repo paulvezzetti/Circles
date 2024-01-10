@@ -4,6 +4,8 @@ A custom watch face for Garmin's new AMOLED displays on the Forerunner 265 and F
 
 Your steps, stairs climbed, body battery and stress are displayed as concentric circles in the background.
 
+![screenshot](https://github.com/paulvezzetti/Circles/blob/master/watchface.png)
+
 ### Built With
 
 * [Garmin ConnectIQ](connect-iq-url)
