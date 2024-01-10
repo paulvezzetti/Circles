@@ -1,0 +1,5 @@
+<fonts>
+  <font id="TimeFont" filename="braahone-128.fnt" antialias="true"/>
+  <font id="WeatherFont" filename="weather-icons-32.fnt" antialias="true"/>
+  <font id="LowPowerFont" filename="londrina-sketch-128.fnt" antialias="true"/>
+</fonts>

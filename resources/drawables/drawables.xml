@@ -1,0 +1,5 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="HeartIcon" filename="heart.svg" scaleX="5%" scaleRelativeTo="image"/>
+    <bitmap id="HeartIcon_Disabled" filename="heart-disabled.svg" scaleX="5%" scaleRelativeTo="image"/>
+</drawables>
